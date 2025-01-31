@@ -29,7 +29,7 @@ int main()
         else if (inum == num)
         {
             printf(" THE VALUE YOU ENTERED IS EQUAL TO THE GENERATED VALUE ...\n");
-            printf(" YOU WINNED THE MATCH IN %d ATTEMPTS YOUR REWARD IS GAAND MNARAAO...\n", i);
+            printf(" YOU WINNED THE MATCH IN %d ATTEMPTS ,YOUR REWARD IS NOTHING FROM MYSIDE...\n", i);
         }
         break;
     }
